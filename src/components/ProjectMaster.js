@@ -11,6 +11,7 @@ class ProjectMaster extends React.Component {
                 description: "Secure Password Generator"
             },
             {
+                // image: "./public/assets/images/gaming(1).PNG",
                 title: "Trivia With Friends",
                 github: "https://github.com/dazacher/Trivia-With-Friends",
                 live: "https://github.com/dazacher/Trivia-With-Friends",
@@ -23,7 +24,7 @@ class ProjectMaster extends React.Component {
                 description: "React Employee directory that can sort in alphabetical order on names, e-mail and sort via phone numbers."
             },
             {
-                title: "React Employee Directory",
+                title: "My Cost Tracker",
                 github: "https://github.com/olegaposh/my_cost_tracker",
                 live: "https://my-cost-tracker.herokuapp.com/login",
                 description: "Group Project Budget Tracker."

@@ -36,6 +36,7 @@ class ProjectMaster extends React.Component {
             <div id="project">
                 {this.state.projects.map((project, key) => (
                     <Project
+                        image={project.image}
                         title={project.title}
                         github={project.github}
                         live={project.live}

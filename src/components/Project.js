@@ -4,7 +4,7 @@ function Project(props) {
     return (
         <>
             <div className="card-body">
-                <img className="card-img-top">{props.image}</img>
+                <img className="card-img-top" alt={props.title} width="400" height="200" src={props.image}></img>
                 <h6 className="card-title">{props.title}</h6>
                 <p className="card-text">{props.description}</p>
 

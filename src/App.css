@@ -9,11 +9,12 @@ body {
 .container {
   background-color: #f0ead6 ;
   height: 80%;
-  width: 95%;
+  width: 90%;
   margin: 5%;
   padding-right: 5%;
   padding-bottom: 3%;
-
+  margin-left: 15%;
+  margin-right: 5%;
 }
 
 .row {
@@ -26,7 +27,7 @@ body {
 }
 
 .copy {
-  padding-top: 1.5%;
+  padding: 2% 0% 2% 0%;
 }
 
 /* 
@@ -57,7 +58,7 @@ li {
   display: inline;
 }
 
-footer {
+.footer {
   width: 100%;
   min-height: 5%;
   position: fixed;
@@ -65,8 +66,55 @@ footer {
   background-color: gray;
   text-align: center;
   display: flex;
+  justify-content: center;
+  margin-top: 2%;
 }
 
 .left-margin {
   margin-left: 1%;
+}
+
+.card-body {
+  width: 18rem;
+}
+
+#project {
+  background-color: #f0ead6;
+  display: flex;
+  flex-wrap: wrap;
+  width: 95vw;
+  height: 95vh;
+  margin: 2%;
+}
+
+.img-thumbnail {
+  padding: 1%;
+  margin-left: 10%;
+}
+
+header {
+  width: 100%;
+}
+
+
+
+/* git s */
+
+@media only screen and (max-width: 400px){
+  #project {
+    margin-bottom: 10%;
+    height: 100vh;
+  }
+
+  .footer {
+    margin-top: 2%;
+    clear: both;
+  }
+
+}
+
+@media only screen and (max-width: 800px){
+  #AboutMe {
+    margin: 5%;
+  }
 }

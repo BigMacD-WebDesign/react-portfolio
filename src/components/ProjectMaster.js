@@ -5,17 +5,11 @@ class ProjectMaster extends React.Component {
     state = {
         projects: [
             {
-                title: "Password Generator",
-                github: "https://github.com/BigMacD-WebDesign/Password_Generator",
-                live: "https://bigmacd-webdesign.github.io/Password_Generator/",
-                description: "Secure Password Generator"
-            },
-            {
-                // image: "./public/assets/images/gaming(1).PNG",
+                image: "/assets/images/gaming(1).PNG",
                 title: "Trivia With Friends",
                 github: "https://github.com/dazacher/Trivia-With-Friends",
                 live: "https://github.com/dazacher/Trivia-With-Friends",
-                description: "Group Project Trivia Game"
+                description: "A fun trivia style game. Keep track of high score and try to beat it. Utilizes trivia API, HTML, CSS, Bootstrap, jQuery."
             },
             {
                 title: "React Employee Directory",
@@ -28,6 +22,12 @@ class ProjectMaster extends React.Component {
                 github: "https://github.com/olegaposh/my_cost_tracker",
                 live: "https://my-cost-tracker.herokuapp.com/login",
                 description: "Group Project Budget Tracker."
+            },
+            {
+                title: "Day Planner",
+                github: "https://github.com/BigMacD-WebDesign/Day_Planner/",
+                live: "https://bigmacd-webdesign.github.io/Day_Planner/",
+                description: "Secure Password Generator"
             },
         ]
     }

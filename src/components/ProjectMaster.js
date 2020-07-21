@@ -18,12 +18,14 @@ class ProjectMaster extends React.Component {
                 description: "React Employee directory that can sort in alphabetical order on names, e-mail and sort via phone numbers."
             },
             {
+                image: "assets/images/Cost_Tracker.PNG",
                 title: "My Cost Tracker",
                 github: "https://github.com/olegaposh/my_cost_tracker",
                 live: "https://my-cost-tracker.herokuapp.com/login",
                 description: "Group Project Budget Tracker."
             },
             {
+                image: "assets/images/Day_Planner.PNG",
                 title: "Day Planner",
                 github: "https://github.com/BigMacD-WebDesign/Day_Planner/",
                 live: "https://bigmacd-webdesign.github.io/Day_Planner/",

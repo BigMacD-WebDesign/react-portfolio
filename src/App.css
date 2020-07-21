@@ -1,3 +1,8 @@
+.App {
+  text-align: center;
+  font-size: 20px;
+}
+
 body {
   background: url(https://colonialmarble.net/wp-content/uploads/2017/07/Marble-Calacatta-Retro-Gold-Leather-2-min.jpg) no-repeat center center fixed;
   height: 100%;
@@ -113,7 +118,7 @@ header {
 
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 1000px){
   #AboutMe {
     margin: 5%;
   }

@@ -12,10 +12,11 @@ class ProjectMaster extends React.Component {
                 description: "A fun trivia style game. Keep track of high score and try to beat it. Utilizes trivia API, HTML, CSS, Bootstrap, jQuery."
             },
             {
+                image: "assets/images/React_Directory.PNG",
                 title: "React Employee Directory",
                 github: "https://github.com/BigMacD-WebDesign/React_Employee_Directory",
                 live: "https://bigmacd-webdesign.github.io/React_Employee_Directory/",
-                description: "React Employee directory that can sort in alphabetical order on names, e-mail and sort via phone numbers."
+                description: "React Employee directory that can sort in alphabetical order on names, e-mail and sort via phone numbers. Utilizes ReactJS."
             },
             {
                 image: "assets/images/Cost_Tracker.PNG",
@@ -29,7 +30,7 @@ class ProjectMaster extends React.Component {
                 title: "Day Planner",
                 github: "https://github.com/BigMacD-WebDesign/Day_Planner/",
                 live: "https://bigmacd-webdesign.github.io/Day_Planner/",
-                description: "Secure Password Generator"
+                description: "Life get's busy. Easy to do list to save tasks that need to take place during the day. Utilizes HTML, CSS, jQuery and Local Storage"
             },
         ]
     }

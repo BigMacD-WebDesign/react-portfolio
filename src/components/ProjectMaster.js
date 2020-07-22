@@ -23,7 +23,7 @@ class ProjectMaster extends React.Component {
                 title: "My Cost Tracker",
                 github: "https://github.com/olegaposh/my_cost_tracker",
                 live: "https://my-cost-tracker.herokuapp.com/login",
-                description: "Group Project Budget Tracker. NodeJS, Express, Handlebars, SQL, passport.js -- for the login to set up a unique user experience, and bcrypt -- to hash the password for user protection."
+                description: "Group Project Budget Tracker. NodeJS, Express, Handlebars, SQL, passport.js"
             },
             {
                 image: "assets/images/Day_Planner.PNG",
@@ -38,6 +38,13 @@ class ProjectMaster extends React.Component {
                 github: "https://github.com/BigMacD-WebDesign/PWA_Budget_Tracker",
                 live: "https://pwa-finance-tracker.herokuapp.com/",
                 description: "Electronic Transaction book to take on the go. PWA, MongoDB. Offline functionality."
+            },
+            {
+                image: "assets/images/Burger_App.PNG",
+                title: "MySQL Burger App",
+                github: "https://github.com/BigMacD-WebDesign/Burger_App",
+                live: "https://burgers-app-mvc.herokuapp.com/",
+                description: "Burger Devour App. Utilizes Handlebars, Sequelize, jQuery, CSS, MySql, Node.JS."
             }
         ]
     }

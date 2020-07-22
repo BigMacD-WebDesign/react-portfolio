@@ -11,7 +11,7 @@ function AboutMe() {
                 </div>
                 <div className="row">
                     <div className="col-lg-3 col-sm-12 col-md-12">
-                        <img src="assets/images/IMG_2865.JPG" alt="Profile" className="img-thumbnail img-fluid" />
+                        <img src="assets/images/IMG_2865.JPG" alt="Profile" className="img-fluid" />
                     </div>
                     <div className="col-lg-9 col-md-12 text-center">
                         <p>I am a Full Stack Web Developer with an intense passion for code and problem solving. Skilled in HTML, HTML5,

@@ -13,13 +13,13 @@ body {
 
 .container {
   background-color: #f0ead6 ;
-  height: 80%;
+  height: 100%;
   width: 90%;
   margin: 5%;
-  padding-right: 5%;
-  padding-bottom: 3%;
+  /* padding-right: 5%;
+  padding-bottom: 3%; */
   margin-left: 15%;
-  margin-right: 5%;
+  /* margin-right: 5%; */
 }
 
 .row {
@@ -69,10 +69,10 @@ li {
   position: fixed;
   bottom: 0;
   background-color: gray;
-  text-align: center;
-  display: flex;
+  /* text-align: center; */
+  /* display: flex; */
   justify-content: center;
-  margin-top: 2%;
+  /* margin-top: 2%; */
 }
 
 .left-margin {
@@ -80,7 +80,8 @@ li {
 }
 
 .card-body {
-  width: 18rem;
+  /* width: 18rem; */
+  border: solid;
 }
 
 #project {
@@ -88,7 +89,7 @@ li {
   display: flex;
   flex-wrap: wrap;
   width: 95vw;
-  height: 95vh;
+  height: 100%;
   margin: 2%;
 }
 
@@ -101,25 +102,7 @@ header {
   width: 100%;
 }
 
-
-
-/* git s */
-
-@media only screen and (max-width: 400px){
-  #project {
-    margin-bottom: 10%;
-    height: 100vh;
-  }
-
-  .footer {
-    margin-top: 2%;
-    clear: both;
-  }
-
-}
-
-@media only screen and (max-width: 1000px){
-  #AboutMe {
-    margin: 5%;
-  }
+.card-img-top {
+  height: 290px;
+  width: 290px;
 }

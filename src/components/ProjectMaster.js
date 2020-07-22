@@ -23,7 +23,7 @@ class ProjectMaster extends React.Component {
                 title: "My Cost Tracker",
                 github: "https://github.com/olegaposh/my_cost_tracker",
                 live: "https://my-cost-tracker.herokuapp.com/login",
-                description: "Group Project Budget Tracker."
+                description: "Group Project Budget Tracker. NodeJS, Express, Handlebars, SQL, passport.js -- for the login to set up a unique user experience, and bcrypt -- to hash the password for user protection."
             },
             {
                 image: "assets/images/Day_Planner.PNG",
@@ -32,21 +32,32 @@ class ProjectMaster extends React.Component {
                 live: "https://bigmacd-webdesign.github.io/Day_Planner/",
                 description: "Life get's busy. Easy to do list to save tasks that need to take place during the day. Utilizes HTML, CSS, jQuery and Local Storage"
             },
+            {
+                image: "assets/images/PWA-Budget.PNG",
+                title: "Transaction Tracking",
+                github: "https://github.com/BigMacD-WebDesign/PWA_Budget_Tracker",
+                live: "https://pwa-finance-tracker.herokuapp.com/",
+                description: "Electronic Transaction book to take on the go. PWA, MongoDB. Offline functionality."
+            }
         ]
     }
 
     render() {
         return (
-            <div id="project">
-                {this.state.projects.map((project, key) => (
-                    <Project
-                        image={project.image}
-                        title={project.title}
-                        github={project.github}
-                        live={project.live}
-                        description={project.description}
-                        key={key} />
-                ))}
+            <div className="container">
+                <div className="row">
+                    <div id="project">
+                        {this.state.projects.map((project, key) => (
+                            <Project
+                                image={project.image}
+                                title={project.title}
+                                github={project.github}
+                                live={project.live}
+                                description={project.description}
+                                key={key} />
+                        ))}
+                    </div>
+                </div>
             </div>
         )
     }

@@ -5,10 +5,10 @@ class ProjectMaster extends React.Component {
     state = {
         projects: [
             {
-                image: "/assets/images/gaming(1).PNG",
+                image: "assets/images/gaming.PNG",
                 title: "Trivia With Friends",
                 github: "https://github.com/dazacher/Trivia-With-Friends",
-                live: "https://github.com/dazacher/Trivia-With-Friends",
+                live: "https://dazacher.github.io/Trivia-With-Friends/",
                 description: "A fun trivia style game. Keep track of high score and try to beat it. Utilizes trivia API, HTML, CSS, Bootstrap, jQuery."
             },
             {

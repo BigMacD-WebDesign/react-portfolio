@@ -1,15 +1,16 @@
-import React from "react";
+import React from 'react';
+import 'react-bootstrap';
 
-function Footer() {
+const Footer = () => {
     return (
-        // <>
-            <footer className="footer">
+        <>
+            <footer className="footer text-center">
                 <ul>
                     <li className="copy">&copy;BigMacD Web Design</li>
                 </ul>
 
             </footer>
-        // </>
+        </>
     )
 };
 

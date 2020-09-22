@@ -1,0 +1,63 @@
+[
+    {
+        "id": "1",
+        "image": "gaming.PNG",
+        "altTag": "Trivia",
+        "title": "Trivia With Friends",
+        "anchorGithub": "https://github.com/dazacher/Trivia-With-Friends",
+        "anchorLive": "https://dazacher.github.io/Trivia-With-Friends/",
+        "description": "A fun trivia style game. Keep track of high score and try to beat it.",
+        "languages": "Utilizes jQuery, Bulma CSS, API's, HTML, SoundManager2, AJAX, JSON"
+    },
+    {
+        "id": "2",
+        "image": "Cost_Tracker.PNG",
+        "altTag": "costTracker",
+        "title": "Trivia With Friends",
+        "anchorGithub": "https://github.com/olegaposh/my_cost_tracker",
+        "anchorLive": "https://my-cost-tracker.herokuapp.com/login",
+        "description": "Group Project Budget Tracker. Create a login and keep track of saved data.",
+        "languages": "Utilizes NodeJS, Express, Handlebars, SQL, passport.js"
+    },
+    {
+        "id": "3",
+        "image": "Desert_pool.PNG",
+        "altTag": "DesertPool",
+        "title": "Desert Pool Service",
+        "anchorGithub": "https://github.com/BigMacD-WebDesign/desert-pool-service",
+        "anchorLive": "https://desert-pools-service-project3.herokuapp.com/",
+        "description": "Full Stack React App. Pool assistance app to help small pool businesses to keep track of their client data.",
+        "languages": "Utilizes React.JS, Atlas MongoDB, Google Maps API, AXIOS, Auth0, MDB React, AOS, Node.js, Express, React Bootstrap."
+    },
+    {
+        "id": "4",
+        "image": "React_Directory.PNG",
+        "altTag": "EmployeeDirectory",
+        "title": "React Employee Directory",
+        "anchorGithub": "https://github.com/BigMacD-WebDesign/React_Employee_Directory",
+        "anchorLive": "https://bigmacd-webdesign.github.io/React_Employee_Directory/",
+        "description": "React Employee directory that can sort in alphabetical order on names, e-mail and sort via phone numbers.",
+        "languages": "Utilizes ReactJS, MDB React and React Bootstrap."
+    },
+    {
+        "id": "5",
+        "image": "Burger_App.PNG",
+        "altTag": "Burgers",
+        "title": "MySQL Burger APP",
+        "anchorGithub": "https://github.com/BigMacD-WebDesign/Burger_App",
+        "anchorLive": "https://burgers-app-mvc.herokuapp.com/",
+        "description": "An App to really sink your teeth into.",
+        "languages": "Utilizes Handlebars, Sequelize, jQuery, CSS, MySql, Node.JS."
+    },
+    {
+        "id": "6",
+        "image": "PWA-Budget.PNG",
+        "altTag": "transactions",
+        "title": "Transaction Tracking",
+        "anchorGithub": "https://github.com/BigMacD-WebDesign/PWA_Budget_Tracker",
+        "anchorLive": "https://pwa-finance-tracker.herokuapp.com/",
+        "description": "Electronic Transaction book to take on the go with Offline capability.",
+        "languages": "Utilizes Progressive Web Apps and MongoDB."
+    }
+]
+

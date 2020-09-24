@@ -1,22 +1,37 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.03bb0534.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.5c1735ce.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.5c1735ce.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.78b90067.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.ba2a69e7.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ba2a69e7.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
-    "static/js/2.49de80ce.chunk.js": "/react-portfolio/static/js/2.49de80ce.chunk.js",
-    "static/js/2.49de80ce.chunk.js.map": "/react-portfolio/static/js/2.49de80ce.chunk.js.map",
+    "static/css/2.c4ad244d.chunk.css": "/react-portfolio/static/css/2.c4ad244d.chunk.css",
+    "static/js/2.f9a1f495.chunk.js": "/react-portfolio/static/js/2.f9a1f495.chunk.js",
+    "static/js/2.f9a1f495.chunk.js.map": "/react-portfolio/static/js/2.f9a1f495.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.b8c580032a366a27cbd16a4764a0d79f.js": "/react-portfolio/precache-manifest.b8c580032a366a27cbd16a4764a0d79f.js",
+    "precache-manifest.43dbbf08fd1f76b689eea1dee9532b7c.js": "/react-portfolio/precache-manifest.43dbbf08fd1f76b689eea1dee9532b7c.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.03bb0534.chunk.css.map": "/react-portfolio/static/css/main.03bb0534.chunk.css.map",
-    "static/js/2.49de80ce.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.49de80ce.chunk.js.LICENSE.txt"
+    "static/css/2.c4ad244d.chunk.css.map": "/react-portfolio/static/css/2.c4ad244d.chunk.css.map",
+    "static/css/main.78b90067.chunk.css.map": "/react-portfolio/static/css/main.78b90067.chunk.css.map",
+    "static/js/2.f9a1f495.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f9a1f495.chunk.js.LICENSE.txt",
+    "static/media/Burger_App.PNG": "/react-portfolio/static/media/Burger_App.561064ed.PNG",
+    "static/media/Cost_Tracker.PNG": "/react-portfolio/static/media/Cost_Tracker.6cbfa567.PNG",
+    "static/media/Day_Planner.PNG": "/react-portfolio/static/media/Day_Planner.01b32bb9.PNG",
+    "static/media/Desert_pool.PNG": "/react-portfolio/static/media/Desert_pool.30f85f20.PNG",
+    "static/media/IMG_2865.JPG": "/react-portfolio/static/media/IMG_2865.36c1f789.JPG",
+    "static/media/PWA-Budget.PNG": "/react-portfolio/static/media/PWA-Budget.7c661e73.PNG",
+    "static/media/React_Directory.PNG": "/react-portfolio/static/media/React_Directory.bda18226.PNG",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.61a0f486.pdf",
+    "static/media/mdb.css": "/react-portfolio/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/background_image.PNG": "/react-portfolio/static/media/background_image.878616be.PNG",
+    "static/media/all.min.css": "/react-portfolio/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/gaming.PNG": "/react-portfolio/static/media/gaming.beb740d9.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
-    "static/js/2.49de80ce.chunk.js",
-    "static/css/main.03bb0534.chunk.css",
-    "static/js/main.5c1735ce.chunk.js"
+    "static/css/2.c4ad244d.chunk.css",
+    "static/js/2.f9a1f495.chunk.js",
+    "static/css/main.78b90067.chunk.css",
+    "static/js/main.ba2a69e7.chunk.js"
   ]
 }

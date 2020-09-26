@@ -10,8 +10,8 @@
 .wrapper img {
     height: 50%;
     max-width: none;
-    /* left: 50%; */
-    /* top: 0; */
+    left: 50%;
+    top: 0;
     border: solid;
 }
 

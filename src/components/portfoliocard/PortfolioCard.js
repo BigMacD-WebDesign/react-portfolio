@@ -9,7 +9,7 @@ function PortfolioCard(props) {
         
             <Col sm={12} md={6} lg={4}>
                 <Card className="cardBody">
-                    <Card.Img responsive="true" src={imageContext("./" + props.image)} alt={props.altTag} />
+                    <Card.Img responsive="true" variant="top" src={imageContext("./" + props.image)} alt={props.altTag} />
                     <Card.Body className="text">
                         <Card.Title className="cardTitle">{props.title}</Card.Title>
                         <Card.Text id="text1">

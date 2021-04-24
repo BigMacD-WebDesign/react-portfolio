@@ -13,7 +13,7 @@
         "id": "2",
         "image": "Cost_Tracker.PNG",
         "altTag": "costTracker",
-        "title": "Trivia With Friends",
+        "title": "Cost Tracker",
         "anchorGithub": "https://github.com/olegaposh/my_cost_tracker",
         "anchorLive": "https://my-cost-tracker.herokuapp.com/login",
         "description": "Group Project Budget Tracker. Create a login and keep track of saved data.",

@@ -1,8 +1,9 @@
+//Needed Imports:
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 
-
+//Const Arrow function for navbar:
 const NavBar = () => {
     return (
         <Navbar className="navbar navbar-expand-lg navbar-dark bg-dark" responsive="true">
@@ -20,4 +21,5 @@ const NavBar = () => {
     )
 };
 
+//Required Export:
 export default NavBar;
